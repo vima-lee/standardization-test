@@ -1,5 +1,5 @@
 import Navbar from "../Navbar/navbar";
-import Slide from "../Slider/Slider";
+import Slider from "../Slider/Slider";
 import Feature from "../Product/feature";
 import Post from "../Product/post";
 import Testimonial from "../Product/testimonial";
@@ -11,7 +11,7 @@ function Main() {
   return (
     <>
       <Navbar />
-      <Slide />
+      <Slider />
       <ProductContainer />
       <Feature />
       <Post />
